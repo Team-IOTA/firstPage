@@ -1,0 +1,66 @@
+#upload-btn {
+    background-color: #4d84e2;
+    border: none; 
+    color: white; 
+    padding: 12px 24px;
+    text-align: center; 
+    text-decoration: none; 
+    font-size: 16px; 
+    border-radius: 25px;
+    margin-left: 700px;
+    margin-bottom: 20px;
+}
+
+input[type="file"] {
+    opacity: 0;
+}
+
+#addcustomnotes{
+    background-color: #4d84e2;
+    border: none; 
+    color: white; 
+    padding: 12px 160px;
+    text-align: center; 
+    text-decoration: none; 
+    font-size: 16px; 
+    border-radius: 25px;
+    margin-top: 500px;
+    margin-left: 10px;
+}
+
+
+
+  .container {
+    display: flex;
+  }
+  
+  .player-container {
+    width: 70%;
+    margin-right: 10px;
+  }
+  
+
+  .player-align {
+    width: 40%;
+    background-color: #ccc;
+    overflow: auto;
+  }
+  
+  .timestamp {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .timestamp-slide {
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    margin-right: 10px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 30px;
+    margin-left: 20px;
+  }
+
+  .timestamp-slides{
+    border: none;
+  }
